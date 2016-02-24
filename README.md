@@ -1977,6 +1977,8 @@ no parameters.
 
   # good
   :some_symbol
+  
+  some_var = 5
 
   def some_method
     ...
